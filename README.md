@@ -19,4 +19,4 @@ git commit
 Es el principio
 ~~~
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.20minutos.es%2Fdeportes%2Fnoticia%2F5190253%2F0%2Fisco%2F&psig=AOvVaw1SMp9h_ubDUziNSRDg111m&ust=1732866589984000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjJz57F_okDFQAAAAAdAAAAABAE)
+![Foto de isco](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.20minutos.es%2Fdeportes%2Fnoticia%2F5190253%2F0%2Fisco%2F&psig=AOvVaw1SMp9h_ubDUziNSRDg111m&ust=1732866589984000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjJz57F_okDFQAAAAAdAAAAABAE)
