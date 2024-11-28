@@ -19,4 +19,4 @@ git commit
 Es el principio
 ~~~
 
-![download](https://github.com/user-attachments/assets/13f4f08b-813f-4d6b-a354-5e6b424a67de)
+![download](https://github.com/user-attachments/assets/7d3b9780-f2b1-4e4f-ae0a-cfcb5a3c6dae)
