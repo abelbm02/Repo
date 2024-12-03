@@ -1,0 +1,8 @@
+# Ignorar la salida de compilacion
+/bin
+
+# Para ignorar archivos generados en tiempo de ejecución
+*.log
+
+# PIgnoarar todos los ficheros ocultos del sistema
+*.DS_Store
